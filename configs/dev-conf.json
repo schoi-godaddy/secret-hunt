@@ -1,0 +1,25 @@
+{
+  "env": "dev",
+  "url": "https://dev.myfakesechuntyes.com/db/connect",
+  "api_config": {
+    "https": true,
+    "Log_number": 12345
+  },
+  "logger": "Info",
+  "created_at": "2022-07-04T17:26:26Z",
+  "default_branch": "main",
+  "delete_branch_on_merge": false,
+  "description": "Dev config to access database, requires config file to be present.",
+  "disabled": false,
+  "fork": false,
+  "forks": 0,
+  "psw_salt": "12345qwert",
+  "forks_count": 0,
+  "has_downloads": true,
+  "has_issues": true,
+  "full_name": "application-secret-hunt",
+  "has_pages": false,
+  "has_projects": true,
+  "has_wiki": true,
+  "homepage": ""
+}

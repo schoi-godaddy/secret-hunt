@@ -1,0 +1,19 @@
+{
+  "name": "secret-hunt",
+  "version": "1.0.0",
+  "description": "Hunt for secrets, can you Catch 'Em All?",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schoi-godaddy/secret-hunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schoi-godaddy/secret-hunt/issues"
+  },
+  "homepage": "https://github.com/schoi-godaddy/secret-hunt#readme"
+}
