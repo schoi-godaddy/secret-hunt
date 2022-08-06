@@ -40,3 +40,4 @@ Password:
 ## Suggestions?
 
 - Please contribute 👍
+- Feel free to create an issue(s).
